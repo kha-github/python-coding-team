@@ -2,6 +2,11 @@ import sys
 sys.stdin = open("input.txt", "rt")
 
 N = int(input())
-M = int(input())
+arr = list(map(int, input().split()))
+arr.sort()
 
-print(N, M)
+res = []
+for i in range(N):
+    res.append(sum(arr[:i+1]))
+
+print(sum(res))
