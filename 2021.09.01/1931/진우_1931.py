@@ -3,7 +3,7 @@ con = []
 for i in range(N):
     s,f = map(int,input().split())
     con.append((s,f))
-sorted(con,key=lambda x:(x[0],x[1]))
+sorted(con,key=lambda x:(x[1],x[0]))
 f = con[0][1]
 ans = 1
 for i in range(1,N):
