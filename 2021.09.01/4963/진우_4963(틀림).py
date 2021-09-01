@@ -9,8 +9,8 @@ while w !=0 or h != 0:
             break
         isl.append(a)
     
-    dw = [1,0,1,-1]
-    dh = [0,1,1,1]
+    dw = [1,1,1,0,0,-1,-1,-1]
+    dh = [0,1,-1,1,-1,1,0,-1]
     cnt = 0
     ev = 0
     for i in range(h):
@@ -18,7 +18,7 @@ while w !=0 or h != 0:
             if isl[i][j] == 1:
                 ev += 1
                 ans[i][j] = True
-                for p in range(4):
+                for p in range(8):
                     x = i + dh[p]
                     y = j + dw[p]
                     if x < 0 or x>=h or y<0 or y>=w:
