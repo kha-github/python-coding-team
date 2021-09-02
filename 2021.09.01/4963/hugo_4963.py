@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open("input.txt", "rt")
+#sys.stdin = open("input.txt", "rt")
 
 def checker(r, c, w, h):
     # 기저조건 : 범위 밖으로 나가면, 바다면
