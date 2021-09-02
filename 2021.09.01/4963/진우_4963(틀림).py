@@ -1,8 +1,11 @@
+import sys
+sys.stdin = open("input.txt", "rt")
+
 w,h = map(int, input().split())
 answer = []
 while w !=0 or h != 0:
     isl = []
-    ans = [[False]*w]*h
+    ans = [[False for _ in range(w)] for _ in range(h)]
     for i in range(h):
         a=list(map(int, input().split()))
         if len(a) != w:
