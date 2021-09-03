@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7807ae3-a9be-4af4-9b2c-85b8b96592cb" name="Changes" comment="&quot;210901&quot;" />
+    <list default="true" id="d7807ae3-a9be-4af4-9b2c-85b8b96592cb" name="Changes" comment="&quot;210901&quot;">
+      <change beforePath="$PROJECT_DIR$/2021.09.01/1459/hugo_1459.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021.09.01/1459/hugo_1459.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021.09.01/2109/hugo_2109.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +13,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+<<<<<<< HEAD
         <option value="Python Stub" />
+=======
+>>>>>>> main
         <option value="Python Script" />
       </list>
     </option>
@@ -39,6 +45,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.hg_1463">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="python-coding-team" />
@@ -62,6 +69,10 @@
       <method v="2" />
     </configuration>
     <configuration name="hg_11660" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+  <component name="RunManager" selected="Python.hugo_1459">
+    <configuration name="현아_1459" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> main
       <module name="python-coding-team" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +80,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/../../venv/bin/python" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021.09.08/11660" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021.09.08/11660/hg_11660.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021.09.01/1459" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021.09.01/1459/현아_1459.py" />
+>>>>>>> main
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +101,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="hg_14501" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+>>>>>>> main
       <module name="python-coding-team" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +113,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/../../venv/bin/python" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021.09.08/14501" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021.09.08/14501/hg_14501.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+>>>>>>> main
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +134,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="hg_1463" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="hugo_1459" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> main
       <module name="python-coding-team" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +146,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/../../venv/bin/python" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021.09.08/1463" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021.09.08/1463/hg_1463.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021.09.01/1459" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021.09.01/1459/hugo_1459.py" />
+>>>>>>> main
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +167,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="hg_9461" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="hugo_2109" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> main
       <module name="python-coding-team" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +179,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/../../venv/bin/python" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021.09.08/9461" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021.09.08/9461/hg_9461.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021.09.01/2109" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021.09.01/2109/hugo_2109.py" />
+>>>>>>> main
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +200,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="hugo_1052" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="hugo_4963" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> main
       <module name="python-coding-team" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,11 +212,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/../../venv/bin/python" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문제풀이" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문제풀이/hugo_1052.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021.09.01/4963" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021.09.01/4963/hugo_4963.py" />
+>>>>>>> main
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,6 +256,7 @@
     </configuration>
     <list>
       <item itemvalue="Python.hugo.oh" />
+<<<<<<< HEAD
       <item itemvalue="Python.hugo_1052" />
       <item itemvalue="Python.hg_14501" />
       <item itemvalue="Python.hg_11660" />
@@ -202,6 +270,19 @@
         <item itemvalue="Python.hg_11660" />
         <item itemvalue="Python.hg_14501" />
         <item itemvalue="Python.hugo_1052" />
+=======
+      <item itemvalue="Python.hugo_2109" />
+      <item itemvalue="Python.현아_1459" />
+      <item itemvalue="Python.hugo_4963" />
+      <item itemvalue="Python.hugo_1459" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hugo_1459" />
+        <item itemvalue="Python.hugo_4963" />
+        <item itemvalue="Python.hugo_2109" />
+        <item itemvalue="Python.현아_1459" />
+>>>>>>> main
       </list>
     </recent_temporary>
   </component>
@@ -244,6 +325,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="&quot;210901&quot;" />
   </component>
   <component name="XDebuggerManager">
+<<<<<<< HEAD
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -268,6 +350,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+=======
+>>>>>>> main
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="r" />
