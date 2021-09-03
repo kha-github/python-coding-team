@@ -1,2 +1,6 @@
 *.txt
 문제풀이/
+.idea
+*/.DS_Store
+.DS_Store
+*.DS_Store
