@@ -1,5 +1,7 @@
 *.txt
 
+# OSX
+**/.DS_Store
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,pycharm,intellij
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,pycharm,intellij
