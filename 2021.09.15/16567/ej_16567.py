@@ -22,7 +22,7 @@ for _ in range(m):
             # 전후 인덱스가 모두 0인 경우 count 증가
             if binary[i - 1] == 0 and binary[i + 1] == 0:
                 count += 1
-            # 전후 인덱스가 모두 0인 경우 count 감소
+            # 전후 인덱스가 모두 1인 경우 count 감소
             elif binary[i - 1] == 1 and binary[i + 1] == 1:
                 count -= 1
             binary[i] = 1
