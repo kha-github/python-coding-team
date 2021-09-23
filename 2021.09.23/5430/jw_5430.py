@@ -17,14 +17,18 @@ for _ in range(t):
         else:
             if not arr:
                 ans.append("error")
+                arr = "error"
                 break
             arr.popleft()
             
-    if arr:
+    if arr != "error" and arr:
         a=[]
         while arr:
             a.append(arr[0])
             arr.popleft()
+        ans.append(a)
+    elif arr == deque([]):
+        a=[]
         ans.append(a)
 
 for i in ans:
