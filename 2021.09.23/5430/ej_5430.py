@@ -9,7 +9,10 @@ def solution(test_case, que):
             revers_count += 1
         elif test == "D":
             try:
-                que.pop() if revers_count % 2 == 1 else que.popleft()
+                if revers_count % 2 == 1:
+                    que.pop()
+                else:
+                    que.popleft()
             except:
                 return "error"
 
