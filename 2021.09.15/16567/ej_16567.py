@@ -8,7 +8,7 @@ binary.append(0)
 count = 0
 
 # 초기 배열의 count 연산
-for i in range(1, n + 1):
+for i in range(n):
     if binary[i] == 1 and binary[i - 1] == 0:
         count += 1
 

@@ -3,7 +3,7 @@ import sys
 
 N, M = map(int, input().split())
 
-arr = list(range(1, N + 1))
+arr = list(range(n))
 visit = [0 for _ in range(N)]
 ans_list = [0 for _ in range(M)]
 def get_permutation(L):
