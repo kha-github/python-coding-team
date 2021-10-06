@@ -1,5 +1,5 @@
 from collections import deque
-
+#ㅅㅣ간초과 ^^
 T = int(input())
 
 def hack():
