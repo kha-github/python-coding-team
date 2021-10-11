@@ -1,5 +1,3 @@
-# 시간초과
-
 def promising(x):
     for j in range(x):
         if row[x] == row[j] or abs(row[x] - row[j]) == (x - j):
@@ -12,6 +10,7 @@ def dfs(n):
     global result
     if n == N:
         result += 1
+        return
     else:
         for i in range(N):
             row[n] = i

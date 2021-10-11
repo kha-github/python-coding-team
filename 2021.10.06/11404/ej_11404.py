@@ -1,5 +1,5 @@
 n = int(input())
-M = int(1e9)
+M = int(1e10)
 cost = [[M] * n for _ in range(n)]
 
 # 인접행렬 초기화
