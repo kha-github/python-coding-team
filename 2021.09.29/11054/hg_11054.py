@@ -21,10 +21,3 @@ for now in range(N-1, -1, -1):
 # dp_sum
 dp_sum = list([x + y - 1 for x, y in zip(dp, dp_reverse)])
 print(max(dp_sum))
-
-
-
-
-
-
-

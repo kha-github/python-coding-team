@@ -1,5 +1,5 @@
 import sys
-#sys.stdin = open("input.txt", "rt")
+sys.stdin = open("input.txt", "rt")
 input = sys.stdin.readline
 
 N = int(input())
@@ -27,4 +27,5 @@ for r in range(1, N + 1):
         else:
             print(distance[r][c], end=" ")
     print()
+
 
